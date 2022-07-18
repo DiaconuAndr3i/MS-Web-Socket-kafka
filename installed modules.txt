@@ -1,0 +1,2 @@
+npm install no-kafka
+npm install ws
